@@ -1,6 +1,17 @@
 # LangChain_Fundamentals
 LangChain Fundamentals
 
+Use GEMINI_API_KEY
+```bash
+from google.colab import userdata
+userdata.get('secretName')
+```
+**Langchain Schema Type:**
+
+**LLM** - AIMessage
+**User** - HumanMessage
+**System Instraction** - SystemMessage
+
 
 ## Tutorial
 
