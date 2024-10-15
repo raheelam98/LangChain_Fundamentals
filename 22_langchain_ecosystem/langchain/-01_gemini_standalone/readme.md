@@ -1,0 +1,1 @@
+[Gemini API Python](https://colab.research.google.com/github/panaversity/learn-applied-generative-ai-fundamentals/blob/main/22_langchain_ecosystem/langchain/-01_gemini_standalone/Gemini_API_python.ipynb)
