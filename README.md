@@ -10,20 +10,36 @@ An SDK is a set of tools to build software for a particular platform. These tool
 !pip install -q -U google-generativeai
 ```
 
-**!**  Linux Command start with exclamation mark  .
-**pip install**  installs Python packages   .
-**-q**  (quiet mode) less verbose  .
-**-U**  (upgrade) latest version  .
-**google-generativeai**  library, which you can use to interact with Google's AI services programmatically
+**!**   Linux Command start with exclamation mark  .
+**pip install**   installs Python packages   .
+**-q**   (quiet mode) less verbose  .
+**-U**   (upgrade) latest version  .
+**google-generativeai**   library, which you can use to interact with Google's AI services programmatically
 
+**Note**  Python is an interpreted scripting language, which means it executes code line by line
 
-
-
-Use GEMINI_API_KEY
+pass credential to pass google key
 ```bash
 from google.colab import userdata
+
 userdata.get('secretName')
 ```
+pass credential to pass GEMINI_API_KEY
+```bash
+import google.generativeai as genai
+
+# Or use `os.getenv('GEMINI_API_KEY')` to fetch an environment variable.
+GEMINI_API_KEY : str = userdata.get("GEMINI_API_KEY")
+genai.configure(api_key=GEMINI_API_KEY)
+```
+**configure(api_key="value")**  method sets up the authentication for your code by linking it with your API key
+
+**Use list_models to see the available Gemini models**
+
+* `gemini-1.5-flash`: optimized for multi-modal use-cases where speed and cost are important. This should be your go-to model.
+* `gemini-1.5-pro`: optimized for high intelligence tasks, the most powerful Gemini model
+
+
 **Langchain Schema Type:**
 
 **LLM** - AIMessage
