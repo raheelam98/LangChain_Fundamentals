@@ -10,11 +10,11 @@ An SDK is a set of tools to build software for a particular platform. These tool
 !pip install -q -U google-generativeai
 ```
 
-* !   Linux Command start with exclamation mark  .
-**pip install**   installs Python packages   .
-**-q**   (quiet mode) less verbose  .
-**-U**   (upgrade) latest version  .
-**google-generativeai**   library, which you can use to interact with Google's AI services programmatically
+* **! (exclamation mark)**   Linux Command start with exclamation mark  .
+* **pip install**   installs Python packages   .
+* **-q**   (quiet mode) less verbose  .
+* **-U**   (upgrade) latest version  .
+* **google-generativeai**   library, which you can use to interact with Google's AI services programmatically
 
 **Note**  Python is an interpreted scripting language, which means it executes code line by line
 
