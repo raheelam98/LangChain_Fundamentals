@@ -10,7 +10,7 @@ An SDK is a set of tools to build software for a particular platform. These tool
 !pip install -q -U google-generativeai
 ```
 
-**!**   Linux Command start with exclamation mark  .
+* !   Linux Command start with exclamation mark  .
 **pip install**   installs Python packages   .
 **-q**   (quiet mode) less verbose  .
 **-U**   (upgrade) latest version  .
@@ -52,14 +52,16 @@ for var in iterable:
     pass
 ```
 
-### Generate text from text inputs ( `gemini-1.5-flash` - lightweight, multimodal AI model)
+#### Generate text from text inputs ( `gemini-1.5-flash` - lightweight, multimodal AI model)
+Multimodal processing (handl text, audio, and images)
 
 ```bash
 from google.generativeai import GenerativeModel
 model : GenerativeModel = genai.GenerativeModel("gemini-1.5-flash")
 ```
+GenerativeModel("pass-model") 
 
-
+**%%time** use magic function ( show the utilization of CPU and time)
 
 **Langchain Schema Type:**
 
