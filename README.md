@@ -1,7 +1,7 @@
 # LangChain_Fundamentals
 LangChain Fundamentals
 
-#### [LangChain_LangGraph_documents](https://github.com/raheelam98/LangChain_LangGraph_documents/blob/main/README.md)
+#### [LangChain_LangGraph_Documents](https://github.com/raheelam98/LangChain_LangGraph_documents/blob/main/README.md)
   
 #### Gemini_API_python
 
