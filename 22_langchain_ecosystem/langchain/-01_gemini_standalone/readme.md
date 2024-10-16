@@ -1,6 +1,6 @@
 
 #### Gemini_API_python
-**langchain/-01_gemini_standalone/Gemini_API_python.ipynb**
+**langchain/-01_gemini_standalone/Gemini_API_python.ipynb**  
 
 [learn-applied-generative-ai-fundamentals/22_langchain_ecosystem/langchain/-01_gemini_standalone
 /Gemini_API_python.ipynb](https://github.com/panaversity/learn-applied-generative-ai-fundamentals/blob/main/22_langchain_ecosystem/langchain/-01_gemini_standalone/Gemini_API_python.ipynb)
