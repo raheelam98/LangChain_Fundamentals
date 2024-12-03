@@ -31,3 +31,10 @@ https://www.youtube.com/watch?v=CEXfmSFYiRc
 [LangChain in Production - Microservice Architecture (incl. FastAPI and Docker) - 15 Jul 2023](https://www.youtube.com/watch?v=I_4jEnDwGwI&t=35s)
 
 [3-Langchain Series-Production Grade Deployment LLM As API With Langchain And FastAPI - 3 Apr 2024](https://www.youtube.com/watch?v=XWB5DXP-DO8)
+
+**BASIC**
+[LANGCORN | Serve LangChain with FastAPI- 14 Jul 2023](https://www.youtube.com/watch?v=D-FAWw3DEpw)
+
+[FastAPI with Langchain & gpt-4o|Tutorial:80 - too long](https://www.youtube.com/watch?v=f8RVkLBcupI)
+
+[Beginner's Guide to FastAPI & OpenAI ChatGPT API Integration | Code -  31 Jul 2023](https://www.youtube.com/watch?v=KVdP4SpWcc4)
