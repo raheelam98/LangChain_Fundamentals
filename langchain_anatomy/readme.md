@@ -78,10 +78,13 @@ from langchain.prompts.prompt import PromptTemplate
 ### 3 - Chain 
 A chain takes a language model and a prompt template, combining them into an interface that takes input from the user and outputs answers from the language model.
 
-** Run LLM with PromptTemplate **
+**Run LLM with PromptTemplate**
+
 ```bash
 llm = ChatOpenAI(model="gpt-4o",temperature=0)
 ```
+
+**Import LLMChain and define chain with language model and prompt.**
 
 ```bash
     chain = summary_prompt_template | llm
