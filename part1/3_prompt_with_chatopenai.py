@@ -21,7 +21,7 @@ if __name__ == "__main__":
         input_variables=["information"], template=summary_template
     )
 
-    llm = ChatOpenAI(temperature=0)
+    llm = ChatOpenAI(model="gpt-4o",temperature=0)
 
     chain = summary_prompt_template | llm
     res = chain.invoke(input={"information": information})
