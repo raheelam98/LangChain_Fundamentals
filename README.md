@@ -7,8 +7,9 @@
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
 
 #### videos
+[What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)
 
-[Prompt Templates in LangChain ](https://www.youtube.com/watch?v=CEXfmSFYiRc&list=PLqbNDdqyX9E3SK5MipjVfdfKJ55vrwaOP&index=6)
+()[Prompt Templates in LangChain ](https://www.youtube.com/watch?v=CEXfmSFYiRc&list=PLqbNDdqyX9E3SK5MipjVfdfKJ55vrwaOP&index=6)
 
 https://www.youtube.com/watch?v=CEXfmSFYiRc
 
