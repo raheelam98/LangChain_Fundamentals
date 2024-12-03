@@ -2,9 +2,18 @@
 
 [Lang Chain - Components](https://python.langchain.com/v0.1/docs/modules/)
 
+* Model I/O :- Prompts, Chat models, LLMs
+* Retrieval :- Document loaders, Text splitters, Embedding models, Vectorstores, Retrievers
+* Composition :- Tools, Agents, Chains
+* Memory, Callbacks
+
 [Lang Chain - Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/)
 
+Prompt templates help to translate user input and parameters into instructions for a language model. 
+
 [Lang Chain - Chain](https://python.langchain.com/v0.1/docs/modules/chains/)
+
+Chains refer to sequences of calls - whether to an LLM, a tool, or a data preprocessing step.
 
 [Lang Chain - Output parsers](https://www.udemy.com/course/langchain/learn/lecture/44709555#overview)
 
