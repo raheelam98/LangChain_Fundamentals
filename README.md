@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=CEXfmSFYiRc
 [LangChain & FastAPI - Customized, secured ChatBot with JWT Authentication - 2 Jul 2023 ](https://www.youtube.com/watch?v=OqT3hKYoeTQ)
 
 [LangChain in Production - Microservice Architecture (incl. FastAPI and Docker) - 15 Jul 2023](https://www.youtube.com/watch?v=I_4jEnDwGwI&t=35s)
+
+[3-Langchain Series-Production Grade Deployment LLM As API With Langchain And FastAPI - 3 Apr 2024](https://www.youtube.com/watch?v=XWB5DXP-DO8)
