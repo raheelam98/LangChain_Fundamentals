@@ -1,5 +1,7 @@
 ## Tutorials
 
+[Lang Chain - Components](https://python.langchain.com/v0.1/docs/modules/)
+
 [Lang Chain - Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/)
 
 [Lang Chain - Chain](https://python.langchain.com/v0.1/docs/modules/chains/)
