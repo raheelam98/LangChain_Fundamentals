@@ -10,14 +10,14 @@
 
 Output parsers are responsible for taking the output of a model and transforming it to a more suitable format for downstream tasks
 
-#### Lang Chain Videos
+### Lang Chain Videos
 
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
 
 [IBM Technology - LangChain vs LangGraph: A Tale of Two Frameworks - 4 Nov 2024 ](https://www.youtube.com/watch?v=qAF1NjEVHhY)
 
 
-#### videos
+### videos
 
 [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)
 
