@@ -10,6 +10,9 @@
 
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
 
+[IBM Technology - LangChain vs LangGraph: A Tale of Two Frameworks - 4 Nov 2024 ](https://www.youtube.com/watch?v=qAF1NjEVHhY)
+
+
 #### videos
 
 [What are AI Agents?](https://www.youtube.com/watch?v=F8NKVhkZZWI)
