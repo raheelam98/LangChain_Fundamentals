@@ -6,6 +6,10 @@
 
 [Lang Chain - Chain](https://python.langchain.com/v0.1/docs/modules/chains/)
 
+[Lang Chain - Output parsers](https://www.udemy.com/course/langchain/learn/lecture/44709555#overview)
+
+Output parsers are responsible for taking the output of a model and transforming it to a more suitable format for downstream tasks
+
 #### Lang Chain Videos
 
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
