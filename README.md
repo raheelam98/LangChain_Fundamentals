@@ -2,6 +2,8 @@
 
 [Lang Chain - Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/)
 
+[Lang Chain - Chain](https://python.langchain.com/v0.1/docs/modules/chains/)
+
 #### Lang Chain Videos
 
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
