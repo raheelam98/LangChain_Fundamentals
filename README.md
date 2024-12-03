@@ -54,3 +54,10 @@ https://www.youtube.com/watch?v=CEXfmSFYiRc
 [FastAPI with Langchain & gpt-4o|Tutorial:80 - too long](https://www.youtube.com/watch?v=f8RVkLBcupI)
 
 [Beginner's Guide to FastAPI & OpenAI ChatGPT API Integration | Code -  31 Jul 2023](https://www.youtube.com/watch?v=KVdP4SpWcc4)
+
+
+### Integrating Linkedin Data Processing - Part 1 - Scraping  
+
+**Proxycurl API is a LinkedIn Profile Scraping API**
+
+Enrich LinkedIn profiles, get contact information, get venture funding data, and list jobs with Proxycurl's premium data enrichment APIs.
