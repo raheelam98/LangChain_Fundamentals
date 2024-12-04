@@ -28,6 +28,10 @@ git clone -b branch_name https://github.com/github_account_name/repository_name.
 **Create environment and require packages**
 
 * create virtual environment (Note remember virtual envirornment)
+  
+pipenv shell
+
+* create virtual environment (Note remember virtual envirornment)
 pipenv shell
 
 * Install LangChain with OpenAI support / Google Generative AI support: ( for llm)
