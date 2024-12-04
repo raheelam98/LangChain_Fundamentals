@@ -72,6 +72,16 @@ Step2 :-  Select virtual environment (we just created)
 
 Step3 :- run code to check it is working
 
+### Create Json file (to load environment variables from .env)
+
+* From right corner of vs-code select the Run and Debug (bug-icon)
+* Click on :-  create a launch.json file
+* From pallet  select Python
+* Then select :-  Python File Debug the current active Python file
+* Add new entry :- envFile 
+* Change the name :- Ice Breaker Runner
+
+
 
 
 
