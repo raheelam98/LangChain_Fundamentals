@@ -66,5 +66,17 @@ pipenv install langchainhub
 
 **VS Code Command Palette**  windows: ctrl+ shif + P
 
+Step1 :-  Select Python interpreter 
+
+Step2 :-  Select virtual environment (we just created)
+
+Step3 :- run code to check it is working
+
+
+
+
+
+
+
 
 
