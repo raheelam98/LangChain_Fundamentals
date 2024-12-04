@@ -25,7 +25,7 @@ git clone URL
 git clone -b branch_name https://github.com/github_account_name/repository_name.git
 ```
 
-**Create environment and require packages**
+### Create environment and require package
 
 * create virtual environment (Note remember virtual envirornment)
 
@@ -60,6 +60,11 @@ pipenv install langchainhub
 ```shell
  pipenv install python-dotenv
 ```
+### Enviorment Setting 
+
+**VS Code Command Palette**
+mac:  cmd+ shif + P
+windows: ctrl+ shif + P
 
 
 
