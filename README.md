@@ -23,6 +23,8 @@ Output parsers are responsible for taking the output of a model and transforming
 
 Agents (llm) allow the model to autonomously determine the sequence and frequency of tool usage based on the input.
 
+[Lang Chain - Build an Agent](https://python.langchain.com/docs/tutorials/agents/)
+
 [Lang Graph - How to interact with the deployment using RemoteGraph](https://langchain-ai.github.io/langgraph/how-tos/use-remote-graph/)
 
 ### Lang Chain Videos
