@@ -33,10 +33,3 @@ Agents (llm) allow the model to autonomously determine the sequence and frequenc
 
 [IBM Technology - LangChain vs LangGraph: A Tale of Two Frameworks - 4 Nov 2024 ](https://www.youtube.com/watch?v=qAF1NjEVHhY)
 
-
-
-### Integrating Linkedin Data Processing - Part 1 - Scraping  
-
-**Proxycurl API is a LinkedIn Profile Scraping API**
-
-Enrich LinkedIn profiles, get contact information, get venture funding data, and list jobs with Proxycurl's premium data enrichment APIs.
