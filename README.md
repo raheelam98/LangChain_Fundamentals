@@ -19,6 +19,10 @@ Chains refer to sequences of calls - whether to an LLM, a tool, or a data prepro
 
 Output parsers are responsible for taking the output of a model and transforming it to a more suitable format for downstream tasks
 
+[Lang Chain - Agents](https://python.langchain.com/v0.1/docs/use_cases/tool_use/agents/)
+
+Agents (llm) allow the model to autonomously determine the sequence and frequency of tool usage based on the input.
+
 [Lang Graph - How to interact with the deployment using RemoteGraph](https://langchain-ai.github.io/langgraph/how-tos/use-remote-graph/)
 
 ### Lang Chain Videos
