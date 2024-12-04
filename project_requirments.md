@@ -62,9 +62,9 @@ pipenv install langchainhub
 ```
 ### Enviorment Setting 
 
-**VS Code Command Palette**
-mac:  cmd+ shif + P
-windows: ctrl+ shif + P
+**VS Code Command Palette**  mac:  cmd+ shif + P
+
+**VS Code Command Palette**  windows: ctrl+ shif + P
 
 
 
