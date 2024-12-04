@@ -19,6 +19,8 @@ Chains refer to sequences of calls - whether to an LLM, a tool, or a data prepro
 
 Output parsers are responsible for taking the output of a model and transforming it to a more suitable format for downstream tasks
 
+[Lang Graph - How to interact with the deployment using RemoteGraph](https://langchain-ai.github.io/langgraph/how-tos/use-remote-graph/)
+
 ### Lang Chain Videos
 
 [Lang Chain - Self-reflective RAG with LangGraph: Self-RAG and CRAG - 7 Feb 2024](https://www.youtube.com/watch?v=pbAd8O1Lvm4)
