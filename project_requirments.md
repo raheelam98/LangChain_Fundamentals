@@ -22,5 +22,7 @@ git clone URL
 **Clone Branch** 
 
 ```shell
-git clone -b branch_name https://github.com/github_account_name/resposioty_name.git
+git clone -b branch_name https://github.com/github_account_name/repository_name.git
 ```
+
+
