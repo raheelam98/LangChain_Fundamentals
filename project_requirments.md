@@ -25,6 +25,14 @@ git clone URL
 git clone -b branch_name https://github.com/github_account_name/repository_name.git
 ```
 
+**install all the dependencies**
+
+create a virtual environment and install all the dependencies specified in your pyproject.toml file, but it won’t install the project itself as a package.
+
+```bash
+poetry install --no-root
+```
+
 ### Create environment and require package
 
 * create virtual environment (Note remember virtual envirornment)
