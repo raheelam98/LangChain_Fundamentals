@@ -82,7 +82,18 @@ Step3 :- run code to check it is working
 * Change the name :- Ice Breaker Runner
 
 
+### API Keys
 
+**LANGCHAIN_API_KEY=**
+
+LangSmith is a standalone platform for building, monitoring, and evaluating production-grade LLM applications, ensuring quick and confident deployments.
+
+[Get started with LangSmith](https://docs.smith.langchain.com/)
+
+* login 
+* create API Key
+* setting (click on 3 dots at bottom) 
+* create API Key
 
 
 
