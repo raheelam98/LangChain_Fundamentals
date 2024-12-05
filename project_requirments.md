@@ -84,6 +84,19 @@ Step3 :- run code to check it is working
 
 ### API Keys
 
+In LangGraph, we can use out-of-the-box features, such as LLMs (API Keys).
+
+**(llm / toocalling)** 
+
+GEMINI_API_KEY(llm)
+
+**GEMINI_API_KEY=**
+
+HumanMessage can pass a prompt to the model using the GEMINI_API_KEY (LLM)
+
+[Gemini API](https://aistudio.google.com/app/apikey)
+
+
 **LANGCHAIN_API_KEY=**
 
 LangSmith is a standalone platform for building, monitoring, and evaluating production-grade LLM applications, ensuring quick and confident deployments.
