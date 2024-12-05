@@ -86,9 +86,7 @@ Step3 :- run code to check it is working
 
 In LangGraph, we can use out-of-the-box features, such as LLMs (API Keys).
 
-**(llm / toocalling)** 
-
-GEMINI_API_KEY(llm)
+**(llm / toocalling) :**  GEMINI_API_KEY(llm)
 
 **GEMINI_API_KEY=**
 
