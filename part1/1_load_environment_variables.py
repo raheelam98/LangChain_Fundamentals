@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 if __name__ == '__main__':
-    print("hello LangChain")
+    print("hello LangChain") 
     print(os.environ.get('TEST', 'TEST not set'))
 
 # output :- hello LangChain    abc12345
