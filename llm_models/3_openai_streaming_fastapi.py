@@ -49,7 +49,7 @@ async def stream_chat(message: Message):
 # .env  OPENAI_API_KEY=
 
 # to run poetry 
-# poetry run uvicorn app.main:app --port 6677 --reload
+# poetry run uvicorn app.main:app --port 8005 --reload
 
 
 
