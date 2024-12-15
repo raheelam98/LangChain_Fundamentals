@@ -80,6 +80,19 @@ Step2 :-  Select virtual environment (we just created)
 
 Step3 :- run code to check it is working
 
+**Current virtual environment for your Poetry project**
+
+```bash
+poetry env info --path
+```
+
+List all virtual environments associated with the current project
+
+```bash
+poetry env list
+```
+
+
 ### Create Json file (to load environment variables from .env)
 
 * From right corner of vs-code select the Run and Debug (bug-icon)
