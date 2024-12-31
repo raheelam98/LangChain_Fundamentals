@@ -111,11 +111,10 @@ uvx --refresh --from "langgraph-cli[inmem]" --with-editable . --python 3.12 lang
 
 
 
-# Initialize the language model as an instance of ChatOpenAI.
+#### Initialize the language model as an instance of ChatOpenAI.
 
-# llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
-#llm = ChatOpenAI()
-# llm = ChatOllama(model=Configuration.local_llm, temperature=0)
+**`llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")`**
+**`llm = ChatOllama(model=Configuration.local_llm, temperature=0)`**
 
 
 poetry add fastapi uvicorn\[standard\] 
