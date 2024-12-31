@@ -3,12 +3,12 @@
 
 Create a new directory for the project
 ```bash
-mkdir reflection-agent
+mkdir dir_name
 ```
 
 Change into the project directory
 ```bash
-cd reflection-agent
+cd dir_name
 ```
 
 Initialize a new poetry project
